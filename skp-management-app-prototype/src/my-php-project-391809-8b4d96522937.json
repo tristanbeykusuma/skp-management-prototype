@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-php-project-391809",
+  "private_key_id": "8b4d96522937efaf1b515802f861ca31a82c3905",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpTw8aTn8MpMSY\nUgWjZLRSYqKNlM1zpgfzTJNOpVZPPMpzEGc9wW0T7kOa8C3FUp9yH8D+2d/r5BHu\nshxZai4xBtKcWyyNKWOqHhtF3g/0DhrBmI03cJ6H6UMaKt1ZMJ81fEkYCKVGtB5r\ntdIn65r6H5XbbHzw0iUieFKPxsTfmnUVJAkYqGCsCizLgrFlkKZ189RU2OINDZ+L\nNnuMiWwYx8J/4z0xsH4Bvva8S67Fr2+0cIgj17AkaMe8qvznRM9yWlYXai4xI8zN\nf0tkgXT7ImJrKIVm2wauj352hy2kJ+fLaHbxJtrDfR9p3YUPgAvOfagDjV0C/SrQ\nCHhWe0DRAgMBAAECggEAEs1S0gsRlOffZUMGmUSfud52St7RihxQGbbRTRSTZy1L\nFkgmDveiE2qMW3J8wsMQLe5U0niDo4CqdSWWfF+MTamCThbZ9bs49DVvteyZPPMs\nCX/Vfuik0lcXOpq0BimeJKRuwZqEMDvkfPWuJvzFMy26yKldnqjXsuJF2O2sA2DH\nf+zaIHjAT2070jb/xgmWQ17tROeb4EwVHvH9wR+3JOoEowH0KDEnFMUrmv8EaAlo\nA00W4UzRxAb0rsQz7cc2WTxfL2EbI2t0rJEj9llyYBxQ7GY8idMjo7s8P/d56Gtl\nqZKMr7mdgIOiQ1HeUzSdt45WaOmUnil+Z1QsJFCzIQKBgQDas9KQ8uRfF++adKEi\niNtHEYPSgLZcUUb0aGssSfb8gYvL6whVGuRUvNcnzOQ0ote3PllnJjsy8UWvgFOS\nqR5DdHjnXoPkjCn65fDfgwnFJ16WrpT/7u8ptwyVcKaAoY0oYDRISMkaPOv3vg8P\nqExOfJQbefaEMjnUy6quIxzeLQKBgQDGLsuX5hGk2i/7898GoUk8UykAo34o4Enj\nzRHqVyHwPKd45u5+NWxxGSO7g1OE3MgZ8Kt9EFWuNAa4FBIYx4CEzORxVXx27kI0\nrHg+K/zm/xNS/hnI3FIZXbKbhsRCXWEPBQy1Fb+QeQUiFHstif3j3XuYPeThaDhy\ner5TyUC3tQKBgA7fld1nt2JENXZSojbACfGeXlGtkTlcCbBLfaZobVSk1sYKeOmY\nx5h/sz4wsABoZrU+l0PtlK8VO4EBAC4ENFuwCxzpD502bxByHNyGg96Vm9gxjU6O\niFNU8JUlMR2kXv409LlJwet34zBZC5sr/eyEimoH9FzvMYGoTDZFiwwNAoGBALsb\nHxhwHCRZ4oerPNsTlwMfOEzkDo4lA13RFKL8VIxtl2esD2qUoac9puC4IjgEAd+L\nuzw+GcZ4VAei21sNr6axktP1c6cNVvBIDNYVzZWBKQtn34wlhlVwgtoXKF/HrYTy\nrYah29RYjaIZWBosd8mUJ8YaWWb+cJyUifCsxy8pAoGALL6CaLzya57V3xsccN/L\nPKwPfTTCpqHll3FI3WAhuug5lqTBsmKWrXTDT9Q0adUkv6A9Ei7aX3ZnCYBWLbsC\n/SD9l0JEYLM3ppaW5AWO9174eUsjwbPkC82S1EnhJHp539/JRrOlJOxvVZ+GnqdU\nU6y95rOkCGGqSIf5+LYMrvA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "skpaccount@my-php-project-391809.iam.gserviceaccount.com",
+  "client_id": "105109677306400972055",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/skpaccount%40my-php-project-391809.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
