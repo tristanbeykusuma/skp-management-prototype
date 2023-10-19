@@ -4,22 +4,32 @@
 /node_modules
 /skp-management-backend-prototype/node_modules
 /skp-management-app-prototype/node_modules
-/.pnp
-.pnp.js
+/skp-management-app-prototype/.pnp
+/skp-management-app-prototype/.pnp.js
 
 # testing
-/coverage
+/skp-management-app-prototype/coverage
 
 # production
-/build
+/skp-management-app-prototype/build
 
 # misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+/skp-management-app-prototype/.DS_Store
+/skp-management-app-prototype/.env.local
+/skp-management-app-prototype/.env.development.local
+/skp-management-app-prototype/.env.test.local
+/skp-management-app-prototype/.env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+/skp-management-app-prototype/npm-debug.log*
+/skp-management-app-prototype/yarn-debug.log*
+/skp-management-app-prototype/yarn-error.log*
+
+/skp-management-backend-prototype/.DS_Store
+/skp-management-backend-prototype/.env.local
+/skp-management-backend-prototype/.env.development.local
+/skp-management-backend-prototype/.env.test.local
+/skp-management-backend-prototype/.env.production.local
+
+/skp-management-backend-prototype/npm-debug.log*
+/skp-management-backend-prototype/yarn-debug.log*
+/skp-management-backend-prototype/yarn-error.log*
