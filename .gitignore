@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /skp-management-backend-prototype/node_modules
+/skp-management-admin-prototype/node_modules
 /skp-management-app-prototype/node_modules
 /skp-management-app-prototype/.pnp
 /skp-management-app-prototype/.pnp.js
@@ -12,6 +13,7 @@
 
 # production
 /skp-management-app-prototype/build
+/skp-management-admin-prototype/build
 
 # misc
 /skp-management-app-prototype/.DS_Store
