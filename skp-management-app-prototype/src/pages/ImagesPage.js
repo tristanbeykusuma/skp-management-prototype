@@ -14,14 +14,15 @@ class ImagesPage extends React.Component {
           initial: 'state',
           fileName:[],
           imageUrl:[],
+          folder:'',
           loading:false     
         }
     }
 
-    componentDidMount() {
+    CreateHandler = async (e) => {
       this.setState({loading:true });
       api
-      .get('/images', {
+      .get(`/images/?folder=${this.state.folder}`, {
       })
       .then((response) => {
         // eslint-disable-next-line react/no-direct-mutation-state
@@ -55,6 +56,13 @@ class ImagesPage extends React.Component {
     <>
       <div className="container mx-auto mb-10">
         <div className="relative flex flex-col-reverse lg:flex-row text-center lg:text-start items-center justify-center lg:justify-between">
+          <div className="mt-12">
+              <form action="#" onSubmit={this.CreateHandler} encType="application/x-www-form-urlencoded">
+                <label htmlFor="folder">Folder</label>
+                <input id="folder" type="text" name="folder" onChange={(e) => this.setState({folder:e.target.value })}/>
+                <button type="submit">Display Image</button>
+              </form>
+          </div>
           <div>
             <h1 className="font-medium text-primary-1 text-[18px]">
               Images displayed below
